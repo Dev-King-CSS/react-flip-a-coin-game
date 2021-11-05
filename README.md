@@ -10,7 +10,7 @@ it locally, then you can follow the following steps in the terminal:
 1. Clone the project
 
 ```bash
-  git clone <link>
+  git clone https://github.com/Dev-King-CSS/react-flip-a-coin-game.git
 ```
 
 2. Go inside the project directory
